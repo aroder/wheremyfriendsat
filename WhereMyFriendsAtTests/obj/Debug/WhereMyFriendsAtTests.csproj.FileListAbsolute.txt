@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\WhereMyFriendsAtTests.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\WhereMyFriendsAtTests.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\System.Web.Abstractions.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\System.Web.Mvc.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\System.Web.Routing.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\obj\Debug\WhereMyFriendsAtTests.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\obj\Debug\WhereMyFriendsAtTests.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAtTests\bin\Debug\nunit.framework.dll

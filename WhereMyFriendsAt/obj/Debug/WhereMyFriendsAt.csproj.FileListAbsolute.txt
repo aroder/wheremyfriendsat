@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\WhereMyFriendsAt.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\WhereMyFriendsAt.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\System.Web.Abstractions.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\System.Web.Mvc.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\System.Web.Routing.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\obj\Debug\WhereMyFriendsAt.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\obj\Debug\WhereMyFriendsAt.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\facebook.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\facebook.web.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\Microsoft.Xml.Schema.Linq.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\facebook.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WhereMyFriendsAt\WhereMyFriendsAt\bin\facebook.web.xml
